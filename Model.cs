@@ -31,4 +31,14 @@ namespace ConsoleApp.SQLite
         public int BlogId { get; set; }
         public Blog Blog { get; set; }
     }
+
+    public class SpellingList
+    {
+        public int SpellingListID {get;set;}
+        public string Name {get;set;}
+    }
+
+    //made a change
+
+
 }
