@@ -1,0 +1,10 @@
+c:\Users\jack\code\spellingwords\bin\Debug\netcoreapp2.0\spellingwords.deps.json
+c:\Users\jack\code\spellingwords\bin\Debug\netcoreapp2.0\spellingwords.runtimeconfig.json
+c:\Users\jack\code\spellingwords\bin\Debug\netcoreapp2.0\spellingwords.runtimeconfig.dev.json
+c:\Users\jack\code\spellingwords\bin\Debug\netcoreapp2.0\spellingwords.dll
+c:\Users\jack\code\spellingwords\bin\Debug\netcoreapp2.0\spellingwords.pdb
+c:\Users\jack\code\spellingwords\obj\Debug\netcoreapp2.0\spellingwords.csproj.CoreCompileInputs.cache
+c:\Users\jack\code\spellingwords\obj\Debug\netcoreapp2.0\spellingwords.AssemblyInfoInputs.cache
+c:\Users\jack\code\spellingwords\obj\Debug\netcoreapp2.0\spellingwords.AssemblyInfo.cs
+c:\Users\jack\code\spellingwords\obj\Debug\netcoreapp2.0\spellingwords.dll
+c:\Users\jack\code\spellingwords\obj\Debug\netcoreapp2.0\spellingwords.pdb
